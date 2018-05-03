@@ -1,0 +1,540 @@
+body{
+    background-color: whitesmoke;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#menu{
+    width: 900px;
+    height: 700px;
+    background-color: white;
+    margin: 0 auto;
+}
+#a1{
+    text-decoration:none;
+    color: black;
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: block;
+    float: right;
+    font-size: 25px;
+    margin-top: 40px;
+    margin-right: 60px;
+    text-align: center;
+    line-height: 100px;
+    border-radius: 200px;
+    transition: background-color 1s;
+    
+}
+#a1:hover{
+    background-color: black;
+    color: red;
+}
+#a2{
+    text-decoration: none;
+    color: red;
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    float: right;
+    font-size: 25px;
+    margin-top: 130px;
+    margin-right: -100px;
+    text-align: center;
+    line-height: 100px;
+    border-radius: 200px;
+    
+    
+}
+
+#a2:hover{
+    background-color: red;
+    color: black;
+}
+#a3{
+    text-decoration: none;
+    color: black;
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    float: right;
+    font-size: 25px;
+    margin-top: 220px;
+    margin-right: -100px;
+    text-align: center;
+    line-height: 100px;
+    border-radius: 200px;
+     
+    
+}
+#a3:hover{
+    background-color: black;
+    color: red;
+}
+#a4{
+    text-decoration: none;
+    color: red;
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    float: right;
+    font-size: 25px;
+    margin-top: 310px;
+    margin-right: -100px;
+    text-align: center;
+    line-height: 100px;
+    border-radius: 200px;
+    
+    
+}
+#a4:hover{
+    background-color: red;
+    color: black;
+}
+#a5{
+    text-decoration: none;
+    color: black;
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    float: right;
+    font-size: 25px;
+    margin-top: 405px;
+    margin-right: -100px;
+    text-align: center;
+    line-height: 100px;
+    border-radius: 200px;
+     
+    
+}
+#a5:hover{
+    background-color: black;
+    color: red;
+}
+#a6{
+    text-decoration: none;
+    color:gold;
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    float: right;
+    font-size: 25px;
+    margin-top: 200px;
+    margin-right: 50px;
+    text-align: center;
+    line-height: 100px;
+    line-height: 130px;
+    border-radius: 200px;
+}
+#a7{
+    text-decoration: none;
+    color:gold;
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    float: right;
+    font-size: 25px;
+    margin-top: 200px;
+    margin-right: 150px;
+    text-align: center;
+    line-height: 100px;
+    line-height: 130px;
+    border-radius: 200px;
+}
+#a8{
+    text-decoration: none;
+    color:gold;
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    float: right;
+    font-size: 25px;
+    margin-top: 200px;
+    margin-right: 150px;
+    text-align: center;
+    line-height: 100px;
+    line-height: 130px;
+    border-radius: 200px;
+}
+#a9{
+    text-decoration: none;
+    color:gold;
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    float: right;
+    font-size: 25px;
+    margin-top: 190px;
+    margin-right: 210px;
+    text-align: center;
+    line-height: 100px;
+    line-height: 130px;
+    border-radius: 200px;
+}
+#a10{
+    text-decoration: none;
+    color:gold;
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    float: right;
+    font-size: 25px;
+    margin-top: 190px;
+    margin-right: 150px;
+    text-align: center;
+    line-height: 100px;
+    line-height: 130px;
+    border-radius: 200px;
+}
+#a11{
+    text-decoration: none;
+    color:gold;
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    float: right;
+    font-size: 25px;
+    margin-top: 190px;
+    margin-right: 150px;
+    text-align: center;
+    line-height: 100px;
+    line-height: 130px;
+    border-radius: 200px;
+}
+#a12{
+     text-decoration: none;
+    display: block;
+    width: 200px;
+    height: 215px;
+    background-color: black;
+    float: right;
+    margin-top: -550px;
+    margin-right: 165px;
+    
+    
+}
+#im1{
+    width: 200px;
+    height: 100px;
+    margin-top: 20px;
+}
+#hh{
+    font-size: 20px;
+    color: red;
+    float: right;
+}
+#p1{
+    font-size: 15px;
+    float: right;
+    margin-top: -10px;
+    color: royalblue;
+}
+#a13{
+    text-decoration: none;
+    display: block;
+    width: 200px;
+    height: 215px;
+    background-color: black;
+    float: right;
+    margin-top: -550px;
+    margin-right: 405px;
+    
+    
+}
+#im2{
+    width: 200px;
+    height: 100px;
+    margin-top: 20px;
+}
+#hh2{
+    font-size: 20px;
+    color: red;
+    float: right;
+}
+#p2{
+    font-size: 15px;
+    float: right;
+    margin-top: -10px;
+    color: royalblue;
+}
+#a14{
+    text-decoration: none;
+    display: block;
+    width: 200px;
+    height: 215px;
+    background-color: black;
+    float: right;
+    margin-top: -550px;
+    margin-right: 655px;
+    
+    
+}
+#im3{
+    width: 200px;
+    height: 100px;
+    margin-top: 20px;
+}
+#hh3{
+    font-size: 20px;
+    color: red;
+    float: right;
+}
+#p3{
+    font-size: 15px;
+    float: right;
+    margin-top: -10px;
+    color: royalblue;
+}
+#a15{
+     text-decoration: none;
+    display: block;
+    width: 200px;
+    height: 215px;
+    background-color: black;
+    float: right;
+    margin-top: -260px;
+    margin-right: 165px;
+    
+    
+}
+#im4{
+    width: 200px;
+    height: 100px;
+    margin-top: 20px;
+}
+#hh4{
+    font-size: 20px;
+    color: red;
+    float: right;
+}
+#p4{
+    font-size: 15px;
+    float: right;
+    margin-top: -10px;
+    color: royalblue;
+}
+#a16{
+    text-decoration: none;
+    display: block;
+    width: 200px;
+    height: 215px;
+    background-color: black;
+    float: right;
+    margin-top: -260px;
+    margin-right: 415px;
+    
+    
+}
+#im5{
+    width: 200px;
+    height: 100px;
+    margin-top: 20px;
+}
+#hh5{
+    font-size: 20px;
+    color: red;
+    float: right;
+}
+#p5{
+    font-size: 15px;
+    float: right;
+    margin-top: -10px;
+    color: royalblue;
+}
+#a17{
+    text-decoration: none;
+    display: block;
+    width: 200px;
+    height: 215px;
+    background-color: black;
+    float: right;
+    margin-top: -260px;
+    margin-right: 655px;
+    
+    
+}
+#im6{
+    width: 200px;
+    height: 100px;
+    margin-top: 20px;
+}
+#hh6{
+    font-size: 20px;
+    color: red;
+    float: right;
+}
+#p6{
+    font-size: 15px;
+    float: right;
+    margin-top: -10px;
+    color: royalblue;
+}
+#im7{
+    margin-top:50px;
+    margin-left: 420px;
+    float: left;
+}
+#content{
+    width: 900px;
+    height: 520px;
+    background-image: url(20141211_191214.jpg) ;
+}
+#hh7{
+    font-size: 50px;
+    color: white;
+    padding-top: 150px;
+    padding-left: 5px;
+    font-style: italic;
+}
+#hh8{
+    font-size: 25px;
+    color: red;
+    padding-top:20px ;
+}
+#a18{
+    text-decoration: none;
+    color: #555;
+    display: block;
+    width: 170px;
+    height: 53px;
+    background-color: antiquewhite;
+    font-family: tahoma;
+    font-size: 28px;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 15px;
+    transition: background-color 1s;
+}
+#a18:hover{
+    color: red;
+    background-color: black;
+}
+#aboutus{
+    width: 900px;
+    height: 600px;
+    background-color: white;
+    
+}
+#im8{
+    width: 300px;
+    height: 100px;
+    margin: 0 auto;
+    padding-left: 300px;
+}
+#hh9{
+    float: right;
+    padding-right: 60px;
+    padding-top: 150px;
+}
+#p7{
+     float: right;
+    padding: 0 50px 0 50px ;
+}
+#im9{
+    margin-top: 50px;
+}
+#a19{
+    text-decoration: none;
+    color: black;
+    display: block;
+    width: 170px;
+    height: 53px;
+    background-color: red;
+    font-family: tahoma;
+    font-size: 28px;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 15px;
+    transition: background-color 1s;
+}
+#a19:hover{
+    color: red;
+    background-color: black;
+}
+#conactus{
+    width: 900px;
+    height: 500px;
+    background-image: url(apple_and_google_maps.jpg);
+
+}
+#hh10{
+    font-size: 50px;
+    color: red;
+    
+}
+hr{
+    width: 300px;
+    color: green;
+}
+#im10{
+    width: 50px;
+    height: 50px;
+    float: right;
+    padding-top: 100px;
+    padding-right:350px;
+}
+#hh11{
+    font-size: 20px;
+    float: left;
+  margin-left: 340px;
+  margin-top: 120px;
+  
+}
+#im11{
+     width: 30px;
+    height: 30px;
+     float: right;
+     margin-right: -40px;
+     margin-top: 170px;
+}
+#im12{
+   width: 30px;
+   height: 30px; 
+   float: right;
+   margin-right: 355px;
+   margin-top: 80px;
+}
+#hh12{
+    float: left;
+    margin-left: 330px;
+    margin-top: 20px;
+}
+#hh13{
+    float: left;
+    margin-left: 330px;
+    margin-top: 25px;
+}
+#conactus ul{
+     list-style: none;
+}
+#conactus a{
+    float: right;
+    margin-top: 100px;
+    margin-right: 150px;
+   
+}
+#footer{
+    width: 900px;
+    height: 100px;
+    background-color: black;
+}
+label{
+    color: red;
+    font-size: 20px;
+    padding-left: 40px;
+    padding-top: 20px;
+}
